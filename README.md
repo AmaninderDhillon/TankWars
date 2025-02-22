@@ -75,6 +75,7 @@ MainMenu: Displays the main menu and provides navigation options.
 ## License
 
 This project is licensed under the MIT License. See LICENSE for details.
+Reason: The MIT License is a good choice for most open-source projects because it provides flexibility while still requiring attribution.
 
 ## Credits
 
